@@ -1,0 +1,29 @@
+# Node.js / npm
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Build output
+out/
+*.vsix
+
+# VS Code specific
+.vscode/
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# TypeScript
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Editor files
+*.swp
+*~
+
+.history/
