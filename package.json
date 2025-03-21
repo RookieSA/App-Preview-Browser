@@ -2,8 +2,9 @@
   "name": "app-preview-browser",
   "displayName": "App Preview Browser",
   "description": "A simple VS Code extension to show an internal browser for local development.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ruanlamprecht",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/RookieSA/App-Preview-Browser.git"
